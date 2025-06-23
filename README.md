@@ -2178,7 +2178,7 @@ La réussite de ce stage sera mesurée non seulement par la qualité technique d
 
 ---
 
-**Document préparé par :** [Nom du Responsable]  
+**Document préparé par :** [BEZARA Florent]  
 **Date :** Juin 2025  
 **Version :** 1.0  
 **Statut :** En attente de validation
