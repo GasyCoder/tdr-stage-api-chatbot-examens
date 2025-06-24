@@ -2179,6 +2179,7 @@ La réussite de ce stage sera mesurée non seulement par la qualité technique d
 ---
 
 **Document préparé par :** [BEZARA Florent]  
+**Le stagiaire** : [Paul Crolas]
 **Date :** Juin 2025  
 **Version :** 1.0  
 **Statut :** En attente de validation
